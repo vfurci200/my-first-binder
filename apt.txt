@@ -1,0 +1,5 @@
+pkg-config
+libleptonica-dev
+libtesseract-dev
+tesseract-ocr
+
